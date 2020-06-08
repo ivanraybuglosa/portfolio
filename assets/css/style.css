@@ -1081,3 +1081,7 @@ section {
   font-size: 3em;
   margin: 0 10px;
 }
+
+.card-image {
+  filter: brightness(90%);
+}
